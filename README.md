@@ -298,12 +298,6 @@ B站 API 采用 C/S 结构，大多数接口为 REST API 和 gRPC，少部分接
     - [x] [主题色](docs/garb/color.md)
     - [ ] [装扮/收藏集](docs/garb/lottery.md)
 
-## ✨鸣谢
-
-你们的存在，让社区更美好
-
-[![contributors](https://opencollective.com/bilibili-api-collect/contributors.svg?width=860&button=false)](https://github.com/SocialSisterYi/bilibili-API-collect/graphs/contributors)
-
 ## 📖相关协议基础
 
 HTTP 协议：[传送门](https://www.cnblogs.com/an-wen/p/11180076.html)
@@ -313,27 +307,6 @@ JSON 序列格式：[传送门](https://www.sojson.com/json/json_index.html)
 XML 序列格式：[传送门](https://www.w3school.com.cn/xml/xml_intro.asp)
 
 ProtoBuf 序列格式：[传送门](https://www.jianshu.com/p/a24c88c0526a)
-
-## 💦交流
-
-<img src="https://avatars.githubusercontent.com/u/45892418" width="100" height="100" />
-
-⚠注意：开源社群欢迎交流探讨，**拒绝**咨询、**不支持**合作，**黑产号**一经发现立即拉黑并举报相关 SRC
-
-- QQ 交流群：[邀请链接](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=ympvb3LAPT-Ulu3ezhGqbkJ8zXMKImOX&authKey=z1KdkOdKO3wytN43m9K6On9nBtnDL4pAoD6VQHCipFBb9TasNDKuDHCmOE6TF3uc&noverify=0&group_code=191187164)
-- Telegram 交流群：[@bilibili_API_collect_community](https://t.me/bilibili_API_collect_community)
-
-## 🧋发电
-
-欢迎来~~交♂易~~，大家的支持就是我继续开发的动力！
-
-~~请可爱的易姐喝杯奶茶~~
-
-WeChat & Alipay：
-
-<img src="./assets/img/sponsorQR.jpg" width="300" height="300" />
-
-OR Aifadian：[https://afdian.com/@ShakaiAneE](https://afdian.com/@ShakaiAneE)
 
 ## 🔗相关项目推荐
 
